@@ -13,4 +13,4 @@ Installation
 
 Contributing
 ------------
-Please report bugs through the [issue tracker](http://github.com/elijahr/gedit-rename/issue) and feel free to fork and contribute!
+Please report bugs through the [issue tracker](http://github.com/elijahr/gedit-rename/issues) and feel free to fork and contribute!
