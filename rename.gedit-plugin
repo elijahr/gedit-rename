@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=rename
+IAge=2
+Name=Rename Current File
+Description=Adds a menu item to the File menu to rename the current file
+Authors=Elijah Rutschman <elijahr@gmail.com>
+Copyright=Copyright © 2010 Elijah Rutschman
+Website=http://github.com/elijahr/gedit-rename
